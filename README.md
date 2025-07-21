@@ -6,7 +6,7 @@ A **Streamlit** app to interact with your PDF documents using RAG (Retrieval-Aug
 
 ## 🚀 Demo
 
-https://github.com/yagosamu/pdfragger/assets/demo.mp4  
+https://github.com/yagosamu/chat_rag/demo.mp4  
 <sup>↑ Click to watch a short video demo of the app in action (upload PDFs, ask questions, download chat history, and more!)</sup>
 
 ---
